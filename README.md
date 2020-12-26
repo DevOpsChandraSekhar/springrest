@@ -2,7 +2,7 @@
 # Clone or Fork this entire repository
   https://github.com/DevOpsChandraSekhar/springrest.git
   
-#1 Spring boot with rest and H2 database 
+# 1Spring boot with rest and H2 database 
 1.	Spring Boot 2.4.1.RELEASE
 2.	Spring 5.3.2.RELEASE 
 3.	Spring Data JPA 2.4.2.RELEASE
@@ -23,7 +23,7 @@
 6. DELETE	/books/{id}	Delete a book where id = {:id}.
  
  
-#2 Spring boot rest, H2 database and Spring security example
+# Spring boot rest, H2 database and Spring security example
 1.	Spring Boot 2.4.1.RELEASE
 2.	Spring 5.3.2.RELEASE 
 3.	Spring Data JPA 2.4.2.RELEASE
